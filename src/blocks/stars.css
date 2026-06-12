@@ -17,6 +17,7 @@
   margin-right: 0;
 }
 
+/* just trigger git */
 .stars__star::before {
   content: '';
   position: absolute;
